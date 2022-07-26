@@ -30,8 +30,10 @@ dependencies:
 
   # UI and styling packages
   cupertino_icons: ^1.0.5
-  device_preview: ^1.1.0
+#  device_preview: ^1.1.0
   sizer: ^2.0.15
+  auto_size_text: ^3.0.0
+  google_fonts: ^3.0.1
 
   # data packages
   get: ^4.6.5
