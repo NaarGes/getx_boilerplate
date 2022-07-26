@@ -4,7 +4,6 @@ import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';
 
 import '../../controller/on_boarding_controller.dart';
-import '../../util/theme/palette.dart';
 import '../component/theme_switcher.dart';
 
 class OnBoardingPage extends StatelessWidget {

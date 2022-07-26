@@ -2,6 +2,9 @@
 
 A Boilerplate for flutter projects using Getx.
 
+This project has a base structure and classes suitable for GetX package containing on boarding and home pages.
+Also some useful packages and setups are added.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
